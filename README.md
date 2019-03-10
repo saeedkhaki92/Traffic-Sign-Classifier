@@ -25,6 +25,6 @@ Following packages should be installed on python 3:
 Pickle version of the data can be found <a href="https://d17h27t6h515a5.cloudfront.net/topher/2016/October/580d53ce_traffic-sign-data/traffic-sign-data.zip" target="_blank">here</a>
 
 
-## instructions
+## Instructions
 
 To train the network form scarth, run the Traffic_Sign_Classifier.ipynb. 
