@@ -4,7 +4,8 @@
  In this project, we train a convolutional neural network (CNN) to classify the 43 distinct traffic signs in German traffic sign dataset. The dataset can be found in <a href="http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset" target="_blank">this link</a>.
  
  
- 
+![Alt Text](https://github.com/saeedkhaki92/Traffic-Sign-Classifier/blob/master/images/pic.PNG)
+
 
 ## Getting Started
 
