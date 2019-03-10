@@ -6,6 +6,8 @@
 
 ## Getting Started
 
+### Dependencies
+
 Following packages should be installed on python 3:
 
 - Tensorflow
