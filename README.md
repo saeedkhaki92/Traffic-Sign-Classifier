@@ -27,4 +27,4 @@ Pickle version of the data can be found <a href="https://d17h27t6h515a5.cloudfro
 
 ## instructions
 
-To train the network form scarth, run the Traffic_Sign_Classifier.iphnb. 
+To train the network form scarth, run the Traffic_Sign_Classifier.ipynb. 
